@@ -1,0 +1,3 @@
+NAME= satwika
+roll no=30
+course=bca
